@@ -48,7 +48,6 @@ public class Mario implements Runnable{
 				mariox = 50;
 			GameCore.pause(150);
 		}
-		System.out.println("dsdsd");
 		//GameCore.pause(100000);
 	}
 
